@@ -93,6 +93,12 @@ Everything lives under `~/.local/state/ubunchy-theme/` (cache, rendered output, 
 - Firefox isn't themed (real Omarchy doesn't theme it either — only Chromium-family browsers).
 - The exact original build recipe for the bundled "Tokyonight-Dark-Storm" GTK theme predates this project's history and isn't reproducible byte-for-byte; the bootstrap script rebuilds an equivalent from the same upstream engine.
 
+## Support
+
+I built UbunChy in my spare time, mostly at night, because I wanted this to exist and nobody else was building it. It's free, it's open source, and that's not changing.
+
+If it saved you the trouble of reinstalling your whole OS just to get a nicer desktop, and you'd like to buy me a coffee for it, there's a Sponsor button at the top of this repo. No pressure, no tiers, no strings. Stars, issues, and pull requests are just as welcome, and just as appreciated.
+
 ## Credits
 
 UbunChy doesn't invent any of the design — it's a delivery mechanism for other people's excellent work:
