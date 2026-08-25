@@ -1,4 +1,5 @@
 # UbunChy
+![alt text](image.png)
 
 I loved the way Omarchy looked. But Omarchy is a full Arch Linux and Hyprland distro, and I was not ready to leave Ubuntu. I know it well, I have used it as my main OS for a long time, and I did not want to reinstall my whole system, back up every file, and hope nothing breaks, just for a nicer desktop.
 
