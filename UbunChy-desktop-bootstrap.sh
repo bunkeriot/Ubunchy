@@ -2147,8 +2147,7 @@ import gi
 gi.require_version("Gtk", "3.0")
 from gi.repository import Gtk, Gdk, GLib  # noqa: E402
 
-# TODO: update once the UbunChy repo is public / shared.
-GITHUB_URL = "https://github.com/REPLACE-ME/UbunChy"
+GITHUB_URL = "https://github.com/bunkeriot/Ubunchy"
 
 LOCK_PATH = os.path.expanduser("~/.cache/ubunchy-help.lock")
 
